@@ -1,3 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h4>Hello, Everyone Prathmesh making something for you all </h4>
+<h1>Hey, Everything this is made by prathmesh try to learn deployment on tomcat cat server currently using jenkins as build and delivery tool and aws for VM </h1>
